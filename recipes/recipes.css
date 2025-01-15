@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif, serif;
+}
+
+h1{
+    font-weight: bolder;
+    background-color: transparent;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
